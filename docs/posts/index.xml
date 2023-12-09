@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Elegant Sweaters</title>
+    <link>http://jimik01.github.io/knittingmaven/posts/</link>
+    <description>Recent content in Posts on Elegant Sweaters</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Dec 2023 08:08:57 +0200</lastBuildDate>
+    <atom:link href="http://jimik01.github.io/knittingmaven/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sweater01</title>
+      <link>http://jimik01.github.io/knittingmaven/posts/sweater01/</link>
+      <pubDate>Thu, 07 Dec 2023 08:08:57 +0200</pubDate>
+      <guid>http://jimik01.github.io/knittingmaven/posts/sweater01/</guid>
+      <description>The quick brown fox jumped over the lazy dogs.&#xA;How now brown cow.</description>
+    </item>
+    <item>
+      <title>Sweater02</title>
+      <link>http://jimik01.github.io/knittingmaven/posts/sweater02/</link>
+      <pubDate>Wed, 06 Dec 2023 08:08:57 +0200</pubDate>
+      <guid>http://jimik01.github.io/knittingmaven/posts/sweater02/</guid>
+      <description>The quick brown fox jumped over the lazy dogs.&#xA;How now brown cow.</description>
+    </item>
+    <item>
+      <title>Image Sizing</title>
+      <link>http://jimik01.github.io/knittingmaven/posts/imagesizing/</link>
+      <pubDate>Mon, 04 Dec 2023 10:08:57 +0200</pubDate>
+      <guid>http://jimik01.github.io/knittingmaven/posts/imagesizing/</guid>
+      <description>The quick brown fox jumped over the lazy dogs.&#xA;How now brown cow.</description>
+    </item>
+    <item>
+      <title>Welcome to My Personal Blog</title>
+      <link>http://jimik01.github.io/knittingmaven/posts/welcome-to-my-personal-blog/</link>
+      <pubDate>Sun, 05 Feb 2023 17:33:14 +0600</pubDate>
+      <guid>http://jimik01.github.io/knittingmaven/posts/welcome-to-my-personal-blog/</guid>
+      <description>Why I created this website Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna</description>
+    </item>
+  </channel>
+</rss>
