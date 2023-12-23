@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jimik on Walden</title>
+    <link>https://jimik01.github.io/test-site01/tags/jimik/</link>
+    <description>Recent content in jimik on Walden</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <managingEditor>KnittingMaven@gmail.com (The Knitting Maven)</managingEditor>
+    <webMaster>KnittingMaven@gmail.com (The Knitting Maven)</webMaster>
+    <lastBuildDate>Mon, 25 Sep 2023 09:03:08 +0800</lastBuildDate>
+    <atom:link href="https://jimik01.github.io/test-site01/tags/jimik/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jimik Blog #1</title>
+      <link>https://jimik01.github.io/test-site01/blog/jimik-blog-1/</link>
+      <pubDate>Mon, 25 Sep 2023 09:03:08 +0800</pubDate><author>KnittingMaven@gmail.com (The Knitting Maven)</author>
+      <guid>https://jimik01.github.io/test-site01/blog/jimik-blog-1/</guid>
+      <description>&lt;p&gt;I enjoy knitting, especially sweaters, so much tha I would like to share my enjoyment of this hobby with you.  Knitting has given me great joy.  I hope to inspire you to enjoy knitting as well.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jimik Blog #2</title>
+      <link>https://jimik01.github.io/test-site01/blog/jimik-blog-2/</link>
+      <pubDate>Fri, 25 Aug 2023 09:03:08 +0800</pubDate><author>KnittingMaven@gmail.com (The Knitting Maven)</author>
+      <guid>https://jimik01.github.io/test-site01/blog/jimik-blog-2/</guid>
+      <description>&lt;p&gt;I enjoy knitting, especially sweaters, so much tha I would like to share my enjoyment of this hobby with you.  Knitting has given me great joy.  I hope to inspire you to enjoy knitting as well.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
